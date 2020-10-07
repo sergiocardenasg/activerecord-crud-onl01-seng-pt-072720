@@ -1,0 +1,2 @@
+1. Run 'rake db:create_migration NAME=create_movies' to create migration file
+2. Create table in migration file
